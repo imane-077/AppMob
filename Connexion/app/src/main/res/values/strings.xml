@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Connexion</string>
+    <string name="title_activity_navigation">Navigation</string>
+    <string name="title_recherche">Recherche</string>
+    <string name="title_destination">Destination</string>
+    <string name="title_photo">Photo</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/navigation_recherche">
+
+    <fragment
+        android:id="@+id/navigation_recherche"
+        android:name="com.openclassrooms.connexion.client.recherche.FormDestination"
+        android:label="Recherche"
+        tools:layout="@layout/fragment_recherche" />
+
+    <fragment
+        android:id="@+id/navigation_destination"
+        android:name="com.openclassrooms.connexion.client.destination.Destination"
+        android:label="Destination"
+        tools:layout="@layout/fragment_destination" />
+
+    <fragment
+        android:id="@+id/navigation_photo"
+        android:name="com.openclassrooms.connexion.client.photo.Photo"
+        android:label="Photo"
+        tools:layout="@layout/fragment_photo" />
+</navigation>

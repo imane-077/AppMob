@@ -1,0 +1,214 @@
+{
+  "project_info": {
+    "project_number": "98928871438",
+    "firebase_url": "https://triptogo-dce71-default-rtdb.firebaseio.com",
+    "project_id": "triptogo-dce71",
+    "storage_bucket": "triptogo-dce71.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:dfa933482567c4ef6b945f",
+        "android_client_info": {
+          "package_name": "App.Mob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:cef5178d608b823f6b945f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:db8c80d1820a16116b945f",
+        "android_client_info": {
+          "package_name": "com.example.triptogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:f4497f005ffee9536b945f",
+        "android_client_info": {
+          "package_name": "com.example.triptogoadministrateur"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:0710ff1a0eaee5936b945f",
+        "android_client_info": {
+          "package_name": "com.openclassrooms.appmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:bcf728f6639ff7666b945f",
+        "android_client_info": {
+          "package_name": "com.openclassrooms.connexion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:98928871438:android:b91523758376fc4b6b945f",
+        "android_client_info": {
+          "package_name": "fr.iut.appmob.appmob"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf7ULh8OmOHRCfwKJI9hqvK3WjTtyK0JI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "98928871438-m3l14jdq0n8sbo74i185f8jd3h5gd717.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
